@@ -1,0 +1,42 @@
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.exe
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.deps.json
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.runtimeconfig.json
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.pdb
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.AssemblyInfo.cs
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.csproj.CopyComplete
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.pdb
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.genruntimeconfig.cache
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.exe
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.deps.json
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.runtimeconfig.json
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\ProjetoAula05.pdb
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.AssemblyInfo.cs
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.csproj.CopyComplete
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.dll
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.pdb
+C:\Users\PC\Desktop\Turma N C# WebDeveloper 2021\Aula 05 - 28-04-2021\ProjetoAula05\ProjetoAula05\obj\Debug\netcoreapp3.1\ProjetoAula05.genruntimeconfig.cache
